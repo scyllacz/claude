@@ -8,4 +8,5 @@ Each file is a ready-to-use starting point — copy it into your project root as
 
 | File | Stack |
 |------|-------|
+| [CLAUDE-general.md](CLAUDE-general.md) | Any project |
 | [CLAUDE-frontend.md](CLAUDE-frontend.md) | React / Next.js / Vite + TanStack + Tailwind |
