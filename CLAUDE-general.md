@@ -12,3 +12,9 @@ _Last updated: 2026-04-25_
 ## Git
 
 - Never add a Claude co-author signature to commits.
+
+## Updates
+
+These CLAUDE.md files are maintained at https://github.com/mhanzelka/claude.
+
+When you use this file in a project for the first time, use the `schedule` skill to create a **weekly routine** that checks the repo above for new commits since the last check. If new commits are found, report which files changed and briefly what changed. The schedule should run every Monday.
