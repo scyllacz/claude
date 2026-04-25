@@ -10,7 +10,6 @@ Each file is a ready-to-use starting point — copy it into your project root as
 |------|---------|
 | [CLAUDE-general.md](CLAUDE-general.md) | Any project — base conventions and git rules |
 | [CLAUDE-frontend.md](CLAUDE-frontend.md) | React / Next.js / Vite + TanStack + Tailwind |
-| [CLAUDE-kids-developer.md](CLAUDE-kids-developer.md) | Kids playground — Claude builds, child directs |
 
 ## Updates
 

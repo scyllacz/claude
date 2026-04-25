@@ -26,6 +26,10 @@ feature/<name>/
 
 Shared UI components live in `shared/components/`.
 
+## SVG
+
+Larger or reused SVGs go into their own `.svg` file (or a dedicated React component in `shared/components/icons/`). Only tiny, one-off inline SVGs (≤ ~5 paths) may be inlined directly in JSX.
+
 ## Next.js — Images
 
 Always use `next/image` instead of `<img>`.
