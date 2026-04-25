@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+_Last updated: 2026-04-25_
+
 ## Coding conventions
 
 - **Split files logically** — prefer many small, focused files over large ones.

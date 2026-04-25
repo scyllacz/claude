@@ -1,5 +1,7 @@
 # CLAUDE-kids-developer.md — Kids Playground
 
+_Last updated: 2026-04-25_
+
 > This file is for Claude acting as a **developer for children**. The child gives instructions, Claude builds. Every rule here overrides general coding guides for this context.
 
 ---
